@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# API Keys (CRITICAL - NEVER COMMIT!)
+
+api_keys.txt
+secrets.txt
+
+# IDE
+.vscode/
+
